@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -43,7 +48,6 @@ body {
   border: 1px solid lightblue;
   border-radius: 20px;
   overflow: hidden;
-  background-color: whitesmoke;
 }
 
 .card-bottom {
@@ -51,6 +55,18 @@ body {
   flex-direction: column;
   gap: 1.5rem;
   padding: 1rem;
+}
+
+.card figure {
+  width: 600px;
+  height: 400px;
+}
+
+.card figure img {
+  object-fit: contain;
+  object-position: top;
+  height: 100%;
+  width: 100%;
 }
 
 footer {

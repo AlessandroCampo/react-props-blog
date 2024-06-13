@@ -1,42 +1,90 @@
 [
     {
         "title": "Understanding JavaScript Closures",
-        "content": "Closures are a fundamental concept in JavaScript that allows a function to access variables from an enclosing scope or environment. This is especially useful for creating function factories and private data."
+        "content": "Closures are a fundamental concept in JavaScript that allows a function to access variables from an enclosing scope or environment. This is especially useful for creating function factories and private data.",
+        "published": true,
+        "imgUrl": "https://res.cloudinary.com/tobest-foundation/image/upload/v1682114462/javascript-closures.jpg",
+        "tags": [
+            "JavaScript",
+            "Closures",
+            "Function"
+        ]
     },
     {
         "title": "Getting Started with React Hooks",
-        "content": "React Hooks, introduced in version 16.8, enable you to use state and other React features without writing a class. Hooks like useState, useEffect, and useContext simplify your functional components."
+        "content": "React Hooks, introduced in version 16.8, enable you to use state and other React features without writing a class. Hooks like useState, useEffect, and useContext simplify your functional components.",
+        "published": true,
+        "imgUrl": "https://res.cloudinary.com/codersociety/image/fetch/f_webp,ar_16:9,c_fill,w_1596/https://cdn.codersociety.com/uploads/react-hooks.jpeg",
+        "tags": [
+            "React",
+            "Hooks",
+            "JavaScript"
+        ]
     },
     {
         "title": "Mastering CSS Grid Layout",
-        "content": "CSS Grid Layout is a powerful 2-dimensional system that allows you to create complex web layouts with ease. It provides a grid-based layout system, with rows and columns, making it easier to design web pages without having to use floats and positioning."
+        "content": "CSS Grid Layout is a powerful 2-dimensional system that allows you to create complex web layouts with ease. It provides a grid-based layout system, with rows and columns, making it easier to design web pages without having to use floats and positioning.",
+        "published": false,
+        "imgUrl": "https://www.freecodecamp.org/news/content/images/2022/05/CSS-GRID-3.png",
+        "tags": [
+            "CSS",
+            "Grid Layout",
+            "Web Design"
+        ]
     },
     {
         "title": "Introduction to Node.js and Express",
-        "content": "Node.js is a runtime environment that lets you run JavaScript on the server side. Express is a fast, unopinionated, minimalist web framework for Node.js that provides robust features for building web and mobile applications."
+        "content": "Node.js is a runtime environment that lets you run JavaScript on the server side. Express is a fast, unopinionated, minimalist web framework for Node.js that provides robust features for building web and mobile applications.",
+        "published": true,
+        "imgUrl": "https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA",
+        "tags": [
+            "Node.js",
+            "Express",
+            "JavaScript"
+        ]
     },
     {
         "title": "Exploring Python Generators",
-        "content": "Generators are a special class of functions in Python that simplify the task of writing iterators. They allow you to declare a function that behaves like an iterator, i.e., it can be used in a for loop."
+        "content": "Generators are a special class of functions in Python that simplify the task of writing iterators. They allow you to declare a function that behaves like an iterator, i.e., it can be used in a for loop.",
+        "published": true,
+        "imgUrl": "https://files.realpython.com/media/Python-Generators-and-the-Yield-Keyword_Watermarked.5380262149de.jpg",
+        "tags": [
+            "Python",
+            "Generators",
+            "Iterators"
+        ]
     },
     {
         "title": "Building RESTful APIs with Flask",
-        "content": "Flask is a micro web framework for Python. It's easy to learn and simple to use, making it ideal for building RESTful APIs. Flask's simplicity in routing and middleware makes it a great choice for API development."
+        "content": "Flask is a micro web framework for Python. It's easy to learn and simple to use, making it ideal for building RESTful APIs. Flask's simplicity in routing and middleware makes it a great choice for API development.",
+        "published": false,
+        "imgUrl": "https://miro.medium.com/v2/resize:fit:1400/1*ZU1EQ7tYeQNQlhOhyonHFA.png",
+        "tags": [
+            "Flask",
+            "Python",
+            "API"
+        ]
     },
     {
         "title": "Diving into TypeScript: Benefits and Features",
-        "content": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. It adds static types, making it easier to catch errors during development. TypeScript's type system and modern JavaScript features enhance developer productivity and code maintainability."
+        "content": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. It adds static types, making it easier to catch errors during development. TypeScript's type system and modern JavaScript features enhance developer productivity and code maintainability.",
+        "published": true,
+        "imgUrl": null,
+        "tags": [
+            "TypeScript",
+            "JavaScript",
+            "Type System"
+        ]
     },
     {
         "title": "Effective Debugging Techniques in Visual Studio Code",
-        "content": "Visual Studio Code provides powerful debugging capabilities for JavaScript and other languages. Learn how to set breakpoints, inspect variables, and use the debugging console to troubleshoot and resolve issues in your code efficiently."
-    },
-    {
-        "title": "Understanding Git and GitHub: A Beginner's Guide",
-        "content": "Git is a distributed version control system that helps developers manage their codebase history. GitHub is a platform for hosting and collaborating on Git repositories. Learn how to use Git for version control and GitHub for code sharing and collaboration."
-    },
-    {
-        "title": "Building Responsive Designs with Flexbox",
-        "content": "Flexbox is a layout model that allows you to design complex and flexible layouts efficiently. It provides an easy way to align and distribute space among items in a container, even when their size is unknown or dynamic."
+        "content": "Visual Studio Code provides powerful debugging capabilities for JavaScript and other languages. Learn how to set breakpoints, inspect variables, and use the debugging console to troubleshoot and resolve issues in your code efficiently.",
+        "published": false,
+        "imgUrl": "https://cdn.neowin.com/news/images/uploaded/2023/07/1688749943_vscode_story.jpg",
+        "tags": [
+            "Debugging",
+            "Visual Studio Code",
+            "JavaScript"
+        ]
     }
 ]
